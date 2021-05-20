@@ -41,8 +41,9 @@ img {
 
 .p1 {
   margin-top: 246px;
-  margin-left: 250px;
+  margin-left: 380px;
   font-size: 20px;
+  letter-spacing: 5px;
 }
 h1 {
   display: flex;
