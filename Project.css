@@ -55,3 +55,15 @@ h1 {
 .p1-info {
   font-size: 13;
 }
+
+.projekt-2 {
+  transform: rotate(270deg);
+  margin-top: 0px;
+}
+
+.p2 {
+  margin-bottom: 0px;
+  margin-top: 200px;
+  font-size: 20px;
+  letter-spacing: 3px;
+}
