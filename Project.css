@@ -36,6 +36,16 @@ nav ul {
 img {
   display: flex;
   width: 300px;
-  margin-left: 450px;
-  margin-top: 250px;
+  margin-left: 475px;
+}
+
+.p1 {
+  margin-top: 246px;
+  margin-left: 250px;
+}
+h1 {
+  display: flex;
+  font-size: 50px;
+  margin-left: 10px;
+  margin-top: 150px;
 }
